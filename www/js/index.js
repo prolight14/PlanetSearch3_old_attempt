@@ -1,8 +1,6 @@
 /**
  * Note this code is NOT mine yet...
  */
-
-
 var enable3d = ENABLE3D.enable3d;
 var Scene3D = ENABLE3D.Scene3D;
 var Canvas = ENABLE3D.Canvas;
