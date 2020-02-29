@@ -1,0 +1,68 @@
+{
+  "_from": "cordova-fs-plugin-fullscreen",
+  "_id": "cordova-fs-plugin-fullscreen@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-77tSLQID8uUeCJ70+NR1LOJnMLA=",
+  "_location": "/cordova-fs-plugin-fullscreen",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-fs-plugin-fullscreen",
+    "name": "cordova-fs-plugin-fullscreen",
+    "escapedName": "cordova-fs-plugin-fullscreen",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-fs-plugin-fullscreen/-/cordova-fs-plugin-fullscreen-1.0.2.tgz",
+  "_shasum": "efbb522d0203f2e51e089ef4f8d4752ce26730b0",
+  "_spec": "cordova-fs-plugin-fullscreen",
+  "_where": "C:\\Users\\evans\\Documents\\Apps\\phoneGames\\PlanetSearch3",
+  "author": {
+    "name": "filfat-studios-ab"
+  },
+  "bugs": {
+    "url": "https://github.com/filfat-Studios-AB/cordova-plugin-fullscreen/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-fullscreen",
+    "platforms": [
+      "android",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "A cordova plugin for controlling fullscreen",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "homepage": "https://github.com/filfat-Studios-AB/cordova-plugin-fullscreen",
+  "keywords": [
+    "cordova",
+    "fullscreen",
+    "controller",
+    "controls",
+    "immersify",
+    "plugin",
+    "notification",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-windows"
+  ],
+  "license": "MIT",
+  "name": "cordova-fs-plugin-fullscreen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filfat-Studios-AB/cordova-plugin-fullscreen.git"
+  },
+  "version": "1.0.2"
+}
